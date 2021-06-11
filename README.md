@@ -9,6 +9,8 @@
 > All credits goes to [Mojang](https://github.com/Mojang) (Their [Website](https://www.minecraft.net/) & [Terms](https://account.mojang.com/terms))
 
 # Supported versions:
+
+## Releases
 - [1.17](https://github.com/CompliBot/Default-Java/tree/1.17)
 - [1.16.5](https://github.com/CompliBot/Default-Java/tree/1.16.5)
 - [1.15.2](https://github.com/CompliBot/Default-Java/tree/1.15.2)
@@ -27,3 +29,6 @@
 - [1.2.5](https://github.com/CompliBot/Default-Java/tree/1.2.5)
 - [1.1](https://github.com/CompliBot/Default-Java/tree/1.1)
 - [1.0](https://github.com/CompliBot/Default-Java/tree/1.0)
+
+## Betas
+- [b1.7.3](https://github.com/CompliBot/Default-Java/tree/b1.7.3)
