@@ -13,7 +13,7 @@
 # Supported versions:
 
 ## Releases
-- [1.19.2](https://github.com/CompliBot/Default-Java/tree/1.19.2)
+- [1.19.3](https://github.com/CompliBot/Default-Java/tree/1.19.3)
 - [1.18.2](https://github.com/CompliBot/Default-Java/tree/1.18.2)
 - [1.17.1](https://github.com/CompliBot/Default-Java/tree/1.17.1)
 - [1.16.5](https://github.com/CompliBot/Default-Java/tree/1.16.5)
