@@ -11,7 +11,7 @@
 **Textures from the Forge and Fabric mod loaders, as well as the Mod Menu mod belong to their respective owners.** If there are any issues, please don't hesitate to contact us.
 
 # Supported versions:
-
+The `java-latest` branch is always updated to the latest Minecraft version, including snapshots/pre-releases/release candidates. It's meant for easier development, so unless you know what you're doing, just use a properly numbered branch.
 ## Releases
 - [1.19.3](https://github.com/CompliBot/Default-Java/tree/1.19.3)
 - [1.18.2](https://github.com/CompliBot/Default-Java/tree/1.18.2)
