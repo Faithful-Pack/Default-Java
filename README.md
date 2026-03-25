@@ -13,6 +13,9 @@
 # Supported versions:
 The [`java-latest`](https://github.com/Faithful-Pack/Default-Java/tree/java-latest) branch is always updated to the latest Minecraft version, and the [`java-snapshot`](https://github.com/Faithful-Pack/Default-Java/tree/java-snapshot) branch is always updated to include the latest snapshot/pre-release/release candidate. These are meant for easier development, so unless you know what you're doing, just use a properly numbered branch.
 ## Releases
+- [1.21.11](https://github.com/Faithful-Pack/Default-Java/tree/1.21.11)
+- [1.21.10](https://github.com/Faithful-Pack/Default-Java/tree/1.21.10)
+- [1.21.8](https://github.com/Faithful-Pack/Default-Java/tree/1.21.8)
 - [1.21.5](https://github.com/Faithful-Pack/Default-Java/tree/1.21.5)
 - [1.21.4](https://github.com/Faithful-Pack/Default-Java/tree/1.21.4)
 - [1.21.3](https://github.com/Faithful-Pack/Default-Java/tree/1.21.3)
